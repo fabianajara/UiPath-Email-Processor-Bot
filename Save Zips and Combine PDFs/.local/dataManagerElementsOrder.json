@@ -1,0 +1,44 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "files&Sequence_37",
+        "zipName&Sequence_12",
+        "subFolderPath&Sequence_12",
+        "isValidPathImport&Sequence_26",
+        "isValidPathExport&Sequence_26",
+        "files&Sequence_40",
+        "files&Sequence_45",
+        "pdfFiles&Sequence_16",
+        "outputPdfPath&Sequence_16",
+        "isValidPath&Sequence_19",
+        "zipFilesPath&Sequence_1",
+        "tempZipFolderPath&Sequence_1",
+        "isValidPath&TryCatch_2",
+        "folderUnZipFiles&Sequence_1",
+        "email&Sequence_2",
+        "unzippedPaths&Sequence_2",
+        "userChoice&Sequence_2",
+        "importFolderPath&Sequence_2",
+        "exportFolderPath&Sequence_2",
+        "emailMessages&Sequence_2",
+        "filteredEmailsByDomain&Sequence_2",
+        "savedAttachments&Sequence_2",
+        "index&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
